@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to DemoBank accounts related prod APIs "
   contactDetails:
     name: "Hector - Product Owner"
-    email: "d78e066309ae801a8a075c6f83b231ebe937954e1db992cb72c17c4430c286e1"
+    email: "{cipher}d78e066309ae801a8a075c6f83b231ebe937954e1db992cb72c17c4430c286e1"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
