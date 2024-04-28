@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DemoBank accounts related prod APIs "
+  message: "Welcome to DemoBank accounts related production APIs "
   contactDetails:
     name: "Hector - Product Owner"
     email: "{cipher}d78e066309ae801a8a075c6f83b231ebe937954e1db992cb72c17c4430c286e1"
